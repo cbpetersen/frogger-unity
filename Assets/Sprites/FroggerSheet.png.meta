@@ -1,0 +1,1112 @@
+fileFormatVersion: 2
+guid: 540df8ce058134fed8ebda97490e4e91
+timeCreated: 1485208192
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 33Hnhw9_0
+    21300002: 33Hnhw9_1
+    21300004: 33Hnhw9_2
+    21300006: 33Hnhw9_3
+    21300008: 33Hnhw9_4
+    21300010: 33Hnhw9_5
+    21300012: 33Hnhw9_6
+    21300014: 33Hnhw9_7
+    21300016: 33Hnhw9_8
+    21300018: 33Hnhw9_9
+    21300020: 33Hnhw9_10
+    21300022: 33Hnhw9_11
+    21300024: 33Hnhw9_12
+    21300026: 33Hnhw9_13
+    21300028: 33Hnhw9_14
+    21300030: 33Hnhw9_15
+    21300032: 33Hnhw9_16
+    21300034: 33Hnhw9_17
+    21300036: 33Hnhw9_18
+    21300038: 33Hnhw9_19
+    21300040: 33Hnhw9_20
+    21300042: 33Hnhw9_21
+    21300044: 33Hnhw9_22
+    21300046: 33Hnhw9_23
+    21300048: 33Hnhw9_24
+    21300050: 33Hnhw9_25
+    21300052: 33Hnhw9_26
+    21300054: 33Hnhw9_27
+    21300056: 33Hnhw9_28
+    21300058: 33Hnhw9_29
+    21300060: 33Hnhw9_30
+    21300062: 33Hnhw9_31
+    21300064: 33Hnhw9_32
+    21300066: 33Hnhw9_33
+    21300068: 33Hnhw9_34
+    21300070: 33Hnhw9_35
+    21300072: 33Hnhw9_36
+    21300074: 33Hnhw9_37
+    21300076: 33Hnhw9_38
+    21300078: 33Hnhw9_39
+    21300080: 33Hnhw9_40
+    21300082: 33Hnhw9_41
+    21300084: 33Hnhw9_42
+    21300086: 33Hnhw9_43
+    21300088: 33Hnhw9_44
+    21300090: 33Hnhw9_45
+    21300092: 33Hnhw9_46
+    21300094: 33Hnhw9_47
+    21300096: 33Hnhw9_48
+    21300098: 33Hnhw9_49
+    21300100: 33Hnhw9_50
+    21300102: 33Hnhw9_51
+    21300104: 33Hnhw9_52
+    21300106: 33Hnhw9_53
+    21300108: 33Hnhw9_54
+    21300110: 33Hnhw9_55
+    21300112: 33Hnhw9_56
+    21300114: 33Hnhw9_57
+    21300116: 33Hnhw9_58
+    21300118: 33Hnhw9_59
+    21300120: 33Hnhw9_60
+    21300122: 33Hnhw9_61
+    21300124: 33Hnhw9_62
+    21300126: 33Hnhw9_63
+    21300128: 33Hnhw9_64
+    21300130: 33Hnhw9_65
+    21300132: 33Hnhw9_66
+    21300134: 33Hnhw9_67
+    21300136: FroggerSheet_0
+    21300138: FroggerSheet_1
+    21300140: FroggerSheet_2
+    21300142: FroggerSheet_3
+    21300144: FroggerSheet_4
+    21300146: FroggerSheet_5
+    21300148: FroggerSheet_6
+    21300150: FroggerSheet_7
+    21300152: FroggerSheet_8
+    21300154: FroggerSheet_9
+    21300156: FroggerSheet_10
+    21300158: FroggerSheet_11
+    21300160: FroggerSheet_12
+    21300162: FroggerSheet_13
+    21300164: FroggerSheet_14
+    21300166: FroggerSheet_15
+    21300168: FroggerSheet_16
+    21300170: FroggerSheet_17
+    21300172: FroggerSheet_18
+    21300174: FroggerSheet_19
+    21300176: FroggerSheet_20
+    21300178: FroggerSheet_21
+    21300180: FroggerSheet_22
+    21300182: FroggerSheet_23
+    21300184: FroggerSheet_24
+    21300186: FroggerSheet_25
+    21300188: FroggerSheet_26
+    21300190: FroggerSheet_27
+    21300192: FroggerSheet_28
+    21300194: FroggerSheet_29
+    21300196: FroggerSheet_30
+    21300198: FroggerSheet_31
+    21300200: FroggerSheet_32
+    21300202: FroggerSheet_33
+    21300204: FroggerSheet_34
+    21300206: FroggerSheet_35
+    21300208: FroggerSheet_36
+    21300210: FroggerSheet_37
+    21300212: FroggerSheet_38
+    21300214: FroggerSheet_39
+    21300216: FroggerSheet_40
+    21300218: FroggerSheet_41
+    21300220: FroggerSheet_42
+    21300222: FroggerSheet_43
+    21300224: FroggerSheet_44
+    21300226: FroggerSheet_45
+    21300228: FroggerSheet_46
+    21300230: FroggerSheet_47
+    21300232: FroggerSheet_48
+    21300234: FroggerSheet_49
+    21300236: FroggerSheet_50
+    21300238: FroggerSheet_51
+    21300240: FroggerSheet_52
+    21300242: FroggerSheet_53
+    21300244: FroggerSheet_54
+    21300246: FroggerSheet_55
+    21300248: FroggerSheet_56
+    21300250: FroggerSheet_57
+    21300252: FroggerSheet_58
+    21300254: FroggerSheet_59
+    21300256: FroggerSheet_60
+    21300258: FroggerSheet_61
+    21300260: FroggerSheet_62
+    21300262: FroggerSheet_63
+    21300264: FroggerSheet_64
+    21300266: FroggerSheet_65
+    21300268: FroggerSheet_66
+    21300270: FroggerSheet_67
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FroggerSheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 423
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 423
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 424
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 423
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 423
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 424
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 423
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 399
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 399
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 280
+        width: 178
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 248
+        width: 117
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 216
+        width: 85
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 231
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 203
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 180
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 178
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 177
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 178
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 175
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 145
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 145
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 145
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 147
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 150
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 110
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_26
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 110
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 109
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 107
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_29
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 105
+        width: 89
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 81
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 76
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 81
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 76
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_34
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 72
+        width: 89
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 39
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_36
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 38
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 40
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 52
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 38
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_40
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 53
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_41
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 38
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_42
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 36
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_43
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 34
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_44
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 36
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_45
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 34
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_46
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 38
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_47
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 38
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 8
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 7
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 5
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_51
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 7
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 5
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 8
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 7
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_56
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 8
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_57
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 7
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_58
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 5
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_59
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 8
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_60
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 7
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_61
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 7
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 8
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_63
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 8
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_64
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_65
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 7
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_66
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 7
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FroggerSheet_67
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 8
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
