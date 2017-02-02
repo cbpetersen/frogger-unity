@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Enemy : BaseMonoBehaviour {
 	private float movedAt = 0;
-	private int moveDirection = 1;
+	private int moveDirection = -1;
 	private Vector3 startPosition;
 
 	public void init(Vector2 pos, int moveDirection) {
@@ -19,7 +19,7 @@ public class Enemy : BaseMonoBehaviour {
 
 	void Update () {
 		if (Time.unscaledTime - gameConfig.TimeBetweenMoves > movedAt) {
-			transform.Translate (new Vector2 (-gameConfig.EnemyMoveDistance, 0));
+			transform.Translate (new Vector2 (gameConfig.EnemyMoveDistance * moveDirection, 0));
 			movedAt = Time.unscaledTime;
 		}
 	}
