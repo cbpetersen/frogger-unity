@@ -29,7 +29,7 @@ public class Player : BaseMonoBehaviour {
 
 			Vector3 v = Vector3.left * Input.GetAxisRaw ("Horizontal") * Time.deltaTime;
 			if (v.x > 0) {
-				if (transform.position.x > -2) {
+				if (transform.position.x > -3) {
 					lastMove = Time.unscaledTime;
 					transform.Translate (new Vector2 (-gameConfig.PlayerMoveDistance, v.y));
 					render.sprite = sprites [7];
@@ -37,7 +37,7 @@ public class Player : BaseMonoBehaviour {
 					return;
 				}
 			} else if (v.x < 0) {
-				if (transform.position.x < 2) {
+				if (transform.position.x < 3) {
 					transform.Translate (new Vector2 (gameConfig.PlayerMoveDistance, v.y));
 					lastMove = Time.unscaledTime;
 					render.sprite = sprites [3];
@@ -48,7 +48,7 @@ public class Player : BaseMonoBehaviour {
 
 			v = Vector3.left * Input.GetAxisRaw ("Vertical") * Time.deltaTime;
 			if (v.x > 0) {
-				if (transform.position.x > -2) {
+				if (transform.position.y > -2) {
 					lastMove = Time.unscaledTime;		
 					transform.Translate (new Vector2 (v.x, -gameConfig.PlayerMoveDistance));
 					render.sprite = sprites [5];
@@ -56,7 +56,7 @@ public class Player : BaseMonoBehaviour {
 					return;
 				}
 			} else if (v.x < 0) {
-				if (transform.position.x < 2) {
+				if (transform.position.y < 2) {
 					transform.Translate (new Vector2 (v.x, gameConfig.PlayerMoveDistance));
 					lastMove = Time.unscaledTime;
 					render.sprite = sprites [1];
